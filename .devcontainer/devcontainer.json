@@ -23,6 +23,7 @@
 			"extensions": [
 				"sdras.night-owl",
 				"pkief.material-icon-theme",
+				"mhutchie.git-graph",
 				"charliermarsh.ruff"
 			]
 		}
